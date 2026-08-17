@@ -1,4 +1,3 @@
-Absolutely. For your project, the `README.md` can be structured like this. Since I don't have your **team member IDs** and **supervisor name**, I've left placeholders for those.
 
 # Adaptive AI-Powered Disaster Response & Resource Allocation System
 
@@ -174,4 +173,3 @@ Once the frontend, backend, AI service, PostgreSQL, and Redis services are runni
 
 The primary objective of this project is to develop an **intelligent and self-adaptive disaster response system** capable of simulating disaster scenarios and dynamically responding to changing conditions through AI-driven analysis and resource allocation.
 
-> **Note:** Since you're still at the planning stage, I would keep the README honest and mark features as **planned/in progress** rather than making it look like the entire system is already implemented. As we build the project, we can continuously update the phase status.
