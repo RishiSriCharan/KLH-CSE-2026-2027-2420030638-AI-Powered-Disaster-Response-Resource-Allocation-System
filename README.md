@@ -127,6 +127,14 @@ Data Collection ➔ Preprocessing ➔ Model Training ➔ Experiment Tracking ➔
 ```
 
 ---
+## 👥 Team Members & Project Guidance
+
+| S.No | ID Number | Name | Role |
+| --- | --- | --- | --- |
+| **1** | 2420030638 | Rayapureddi Rishi SriCharan | Team Member |
+| **2** | 2420030161 | Yennam Sesank Reddy | Team Member |
+| **3** | 2420090074 | Ramannagari Harshath | Team Member |
+| **Guide** | — | Anugu Swapna | Project Guide |
 
 ## 📄 License
 
